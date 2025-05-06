@@ -27,16 +27,19 @@ Admins can create and manage doctor profiles.
 Dashboard with analytics: total doctors, total appointments, total patients, and recent bookings.
 Add new doctors (image, specialty, degree, experience, address, fees, etc.).
 View and manage all appointments (cancel or mark as completed).
+
 🏠 Home Page
 Features a user-friendly layout where users can:
 Search for doctors based on specialties.
 View top doctors and their profiles.
 Explore additional sections: About Us, Delivery Information, Privacy Policy, and Get in Touch.
 Footer includes navigation links: Home, About Us, Delivery Info, Privacy Policy, Contact Us.
+
 🩺 All Doctors Page
 Lists all available doctors.
 Users can filter doctors by specialty.
 Clicking on a doctor's profile redirects to the Doctor Appointment Page.
+
 📄 About Page
 Provides information about DocApp’s vision and mission.
 Why Choose Us section highlights:
@@ -44,10 +47,12 @@ Efficiency: Streamlined appointment process.
 Convenience: Online booking and payment.
 Personalization: Tailored experience based on user preferences.
 Footer section with additional links.
+
 📞 Contact Page
 Contains office address and contact details.
 Section to explore job opportunities.
 Footer navigation links.
+
 📅 Doctor Appointment Page
 Displays detailed information about the selected doctor:
 Profile picture, qualification, experience, and a brief description.
@@ -55,6 +60,7 @@ Appointment booking form: Choose date, time, and payment method.
 Online payment options: Cash, Stripe, or Razorpay.
 Related doctors section at the bottom.
 Users need to create an account or log in before booking an appointment.
+    
 👤 User Profile
 Accessible after login.
 Users can view and edit their profile:
@@ -62,6 +68,7 @@ Upload profile picture.
 Update name, email, address, gender, and birthday.
 View list of upcoming and past appointments.
 Logout option available.
+
 🗄️ Admin Panel
 Dashboard:
 Displays statistics: Number of doctors, appointments, patients, and latest bookings.
@@ -73,14 +80,17 @@ View all registered doctors with options to edit or delete profiles.
 Appointments:
 List of all appointments including patient name, age, date, time, doctor name, fees.
 Admin actions: Cancel or Mark as Completed.
+
 🩺 Doctor Dashboard
 Earnings Overview:
 Total earnings from completed appointments.
 Appointments List:
 View detailed list of patient appointments (name, age, date, time, payment mode, status).
 Actions: Mark appointment as completed or Cancel appointment.
+
 Profile Management:
 Doctors can update their profile information, including description, fees, address, and availability status.
+
 💳 Payment Integration
 Supports multiple payment methods:
 Cash Payment
